@@ -4,10 +4,6 @@
 - 🌱 I’m currently learning c programming language...
 - 💞️ I’m looking to collaborate on project of c language...
 - 📫 How to reach me contact at +919829906261, 
--  I'm a first year undergraduate student at National Institute of Technology, Delhi. I love to solve challenging problems.
-    I like to connect with people and do projects related to Web Development,App Development,etc but not limited to it and also explore new things.
-    
-- 👯 I’m looking to collaborate on projects  
  
  
 
