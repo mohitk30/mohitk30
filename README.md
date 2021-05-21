@@ -48,13 +48,7 @@ You can click the Preview link to take a look at your changes.
 </a>
 
 ## My Coding Profiles
- 
-<a href=" " target="_blank">
-<img src=https://img.shields.io/badge/hackerearth-%2308090A.svg?&style=for-the-badge&logo=hackerearth&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
-</a>
-<a href="" target="_blank">
-<img src=https://img.shields.io/badge/hackerrank-%2308090A.svg?&style=for-the-badge&logo=hackerrank&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
-</a>
+
  
  
 <a href="" target="_blank">
