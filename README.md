@@ -11,6 +11,11 @@
 mohitk30/mohitk30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+## My Portfolio
+ 
+<a href="" target="_blank">
+<img src=https://img.shields.io/badge/Portfolio-%2308090A.svg?&style=for-the-badge&logo=globe&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
+</a>
 ## Feel free to reach me through
 
 <a href="https://www.linkedin.com/in/mohit-kumar-605669202/" target="_blank">
@@ -56,9 +61,5 @@ You can click the Preview link to take a look at your changes.
 </a>
 
 
-## My Profiles
- 
-<a href="" target="_blank">
-<img src=https://img.shields.io/badge/Portfolio-%2308090A.svg?&style=for-the-badge&logo=globe&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
-</a>
+
  
