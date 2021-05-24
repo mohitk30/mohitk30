@@ -30,6 +30,8 @@ You can click the Preview link to take a look at your changes.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitk30&layout=compact)](https://github.com/mohitk30/github-readme-stats)
 
 
+![Profile View](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=mohitk30&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
+
 ## Checkout My Portfolio
  
 <a href="https://mohitk30.github.io/" target="_blank">
