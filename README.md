@@ -3,6 +3,8 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 </div>
 
+
+<div align="center">
 - 👋 Hi, I’m _**Mohit kumar**_.
 - 👀 I’m interested in web development and android development...
 - 🌱 I’m currently learning c programming language...
@@ -82,6 +84,6 @@ You can click the Preview link to take a look at your changes.
 <img src=https://img.shields.io/badge/codechef-%2308090A.svg?&style=for-the-badge&logo=codechef&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
 </a>
 
-
+</div>
 
  
