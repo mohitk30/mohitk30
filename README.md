@@ -82,7 +82,7 @@ You can click the Preview link to take a look at your changes.
 
  
  
-<a href="" target="_blank">
+<a href="https://www.codechef.com/users/mohitkumar30" target="_blank">
 <img src=https://img.shields.io/badge/codechef-%2308090A.svg?&style=for-the-badge&logo=codechef&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
 </a>
 
