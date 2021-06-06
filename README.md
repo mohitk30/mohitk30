@@ -86,7 +86,7 @@ You can click the Preview link to take a look at your changes.
 <img src=https://img.shields.io/badge/codechef-%2308090A.svg?&style=for-the-badge&logo=codechef&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
 </a>
 
-#### <a href="https://www.codechef.com/users/mohitkumar30"><img src="https://img.shields.io/badge/dynamic/json?label=CodeChef&query=%24.country_rank&url=https://competitive-coding-api.herokuapp.com/api/codechef/radix28_numb&prefix=US%20%23&logo=codechef&logoColor=f5f5dc&labelColor=7b5e47&style=for-the-badge&cacheSeconds=259200" alt="radix28_numb's profile on CodeChef" title="radix28_numb's profile on CodeChef"></a>
+#### <a href="https://www.codechef.com/users/mohitkumar30"><img src="https://img.shields.io/badge/dynamic/json?label=CodeChef&query=%24.country_rank&url=https://competitive-coding-api.herokuapp.com/api/codechef/mohitkumar30&prefix=In%20%23&logo=codechef&logoColor=f5f5dc&labelColor=7b5e47&style=for-the-badge&cacheSeconds=259200" alt="mohitkumar30 profile on CodeChef" title="mohitkumar30's profile on CodeChef"></a>
 </div>
 
  
