@@ -84,7 +84,7 @@ You can click the Preview link to take a look at your changes.
  
  
 
-#### <a href="https://www.codechef.com/users/mohitkumar30"><img src="https://img.shields.io/badge/dynamic/json?label=CodeChef&query=%24.country_rank&url=https://competitive-coding-api.herokuapp.com/api/codechef/mohitkumar30[rating]&prefix=IN%20%23&logo=codechef&logoColor=f5f5dc&labelColor=7b5e47&style=for-the-badge&cacheSeconds=259200" alt="mohitkumar30 profile on CodeChef" title="mohitkumar30's profile on CodeChef"></a>
+#### <a href="https://www.codechef.com/users/mohitkumar30"><img src="https://img.shields.io/badge/dynamic/json?label=CodeChef&query=%24.country_rank&url=https://competitive-coding-api.herokuapp.com/api/codechef/mohitkumar30 &prefix=IN%20%23&logo=codechef&logoColor=f5f5dc&labelColor=7b5e47&style=for-the-badge&cacheSeconds=259200" alt="mohitkumar30 profile on CodeChef" title="mohitkumar30's profile on CodeChef"></a>
 </div>
 
  
