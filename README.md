@@ -1,17 +1,17 @@
  
- <div align="center">
+<!--  <div align="center"> -->
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
-</div>
+<!-- </div> -->
 
 
-<div align="center">
+<!-- <div align="center"> -->
  
  
 - 👋  I’m _**Mohit kumar**_.
-- 👀 I’m interested in web development and android development...
-- 🌱 I’m currently learning c programming language...
-- 💞️ I’m looking to collaborate on project ...
-- 📫 How to reach me contact at +919829906261, 
+- 👀 I’m interested in web development and android development.
+- 🌱 I’m currently learning c programming language.
+- 💞️ I’m looking to collaborate on project.
+- 📫 Contact at +919829906261, 
  
  
 <i>Random joke for you!</i>
@@ -74,6 +74,6 @@ You can click the Preview link to take a look at your changes.
  
 
 #### <a href="https://www.codechef.com/users/mohitkumar30"><img src="https://img.shields.io/badge/dynamic/json?label=CodeChef&query=%24.country_rank&url=https://competitive-coding-api.herokuapp.com/api/codechef/mohitkumar30&prefix=US%20%23&logo=codechef&logoColor=f5f5dc&labelColor=7b5e47&style=for-the-badge&cacheSeconds=259200"  alt="mohitkumar30 profile on CodeChef" title="mohitkumar30's profile on CodeChef"></a>
-</div>
+<!-- </div> -->
 
  
