@@ -51,32 +51,21 @@ You can click the Preview link to take a look at your changes.
 <img src=https://img.shields.io/badge/Gmail-%2308090A.svg?&style=for-the-badge&logo=Gmail&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 
-## Technology that I'm working with and learning
- 
-<a href="" target="_blank">
-<img src=https://img.shields.io/badge/javascript-%2308090A.svg?&style=for-the-badge&logo=javascript&logoColor=white alt=devpost style="margin-bottom: 5px;" />
-</a>
-<a href="" target="_blank">
-<img src=https://img.shields.io/badge/react-%2308090A.svg?&style=for-the-badge&logo=react&logoColor=white alt=devpost style="margin-bottom: 5px;" />
-</a>
-<a href="" target="_blank">
-<img src=https://img.shields.io/badge/c-%2308090A.svg?&style=for-the-badge&logo=c++&logoColor=white alt=devpost style="margin-bottom: 5px;" />
-</a>
-<a href="" target="_blank">
-<img src=https://img.shields.io/badge/HTML-%2308090A.svg?&style=for-the-badge&logo=c++&logoColor=white alt=devpost style="margin-bottom: 5px;" />
-</a>
-<a href="" target="_blank">
-<img src=https://img.shields.io/badge/CSS-%2308090A.svg?&style=for-the-badge&logo=c++&logoColor=white alt=devpost style="margin-bottom: 5px;" />
-</a>
-<a href="" target="_blank">
-<img src=https://img.shields.io/badge/express-%2308090A.svg?&style=for-the-badge&logo=express&logoColor=white alt=devpost style="margin-bottom: 5px;" />
-</a>
-<a href="" target="_blank">
-<img src=https://img.shields.io/badge/firebase-%2308090A.svg?&style=for-the-badge&logo=firebase&logoColor=white alt=devpost style="margin-bottom: 5px;" />
-</a>
-<a href="" target="_blank">
-<img src=https://img.shields.io/badge/android-%2308090A.svg?&style=for-the-badge&logo=android&logoColor=white alt=devpost style="margin-bottom: 5px;" />
-</a>
+## ⚡ Technologies
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=flat-square&logo=c)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=flat-square&logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/material%20ui%20-%230081CB.svg?logo=material-ui&logoColor=white&style=flat-square)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
 
 ## My Codechef Country rank
 
