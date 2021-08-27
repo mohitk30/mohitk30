@@ -45,13 +45,13 @@ You can click the Preview link to take a look at your changes.
 ## Feel free to reach me through
 
 <a href="https://www.linkedin.com/in/mohit-kumar-605669202/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%2308090A.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/linkedin-%2308090A.svg?&style=for-the-badge&logo=linkedin&logoColor=blue alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="mailto:mohitkumar982990@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/Gmail-%2308090A.svg?&style=for-the-badge&logo=Gmail&logoColor=white alt=Gmail style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Gmail-%2308090A.svg?&style=for-the-badge&logo=Gmail&logoColor=red alt=Gmail style="margin-bottom: 5px;" />
 </a>
 <a href="mailto:mohitkumar982990@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2308090A.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/twitter-%2308090A.svg?&style=for-the-badge&logo=twitter&logoColor=blue alt=twitter style="margin-bottom: 5px;" />
 </a>
 
 ## ⚡ Technologies
