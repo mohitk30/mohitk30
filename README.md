@@ -7,19 +7,18 @@
 <!-- <div align="center"> -->
  
  
-- 👋  I’m _**Mohit kumar**_.
+<!-- - 👋  I’m _**Mohit kumar**_.
 - 👀 I’m interested in web development and android development.
 - 🌱 I’m currently learning c programming language.
 - 💞️ I’m looking to collaborate on project.
-- 📫 Contact at +919829906261, 
+- 📫 Contact at +919829906261,  -->
 
 ```java
 
 printf("Name: Mohit kumar");
-console.log("Interest:
-                       > Coding
-                       > Developing");
-System.out.println("I am a somophore");
+console.log("Interest: Coding, Development and exploring new things");
+System.out.println("I am a sophomore");
+echo "Contact at: +91 98299 06261";
 
 
 
