@@ -15,12 +15,11 @@
 
 ```java
 
+    This describe me
 printf("Name: Mohit kumar");
 console.log("Interest: Coding, Development and exploring new things");
 System.out.println("I am a sophomore");
 echo "Contact at: +91 98299 06261";
-
-
 
 ```
  
