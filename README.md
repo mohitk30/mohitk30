@@ -12,6 +12,13 @@
 - 🌱 I’m currently learning c programming language.
 - 💞️ I’m looking to collaborate on project.
 - 📫 Contact at +919829906261, 
+
+```java
+
+Printf("Name: Mohit kumar");
+
+
+```
  
  
 <i>Random joke for you!</i>
