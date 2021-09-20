@@ -15,7 +15,12 @@
 
 ```java
 
-Printf("Name: Mohit kumar");
+printf("Name: Mohit kumar");
+console.log("Interest:
+                       > Coding
+                       > Developing");
+System.out.println("I am a somophore");
+
 
 
 ```
