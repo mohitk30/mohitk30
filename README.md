@@ -15,7 +15,7 @@
 
 ```js
 
-    This describe me
+    This describe me a programer
     
 printf("Name: Mohit kumar");
 console.log("Interest: Coding, Development and exploring new things");
