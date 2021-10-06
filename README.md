@@ -81,7 +81,7 @@ You can click the Preview link to take a look at your changes.
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 
-[![Mohit kumar's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mohitk30&bg_color=FFFFFF&color=000000&line=FFFFFF&point=00FF00)](https://github.com/mohitk30/github-readme-activity-graph)
+[![Mohit kumar's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mohitk30&bg_color=FFFFFF&color=000000&line=000000&point=00FF00)](https://github.com/mohitk30/github-readme-activity-graph)
 
 ## My Codechef Country rank
 
