@@ -1,6 +1,6 @@
  
 <!--  <div align="center"> -->
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+<h2> # Hello there! 👋🏻 I am Mohit Kumar!  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 <!-- </div> -->
 
 
@@ -37,12 +37,19 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-
-# GitHub Stats
+<!-- 
+ <div>
 [![Mohit kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohitk30&show_icons=true)](https://github.com/mohitk30/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitk30&layout=compact)](https://github.com/mohitk30/github-readme-stats)
+</div> -->
+
+| ![Mohit GitHub Statistics](https://github-readme-stats.vercel.app/api?username=mohitk30&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitk30) |
+| --- | --- |
+| ![Mohit GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohitk30) | If you like what I do, support me by buying me a [pizza](https://www.buymeacoffee.com/mohitk30) and let's do more useful content! <img src="https://i.imgur.com/T31KN5a.png" alt="Look next line." height="24" /><br /><br /> <a href="https://www.buymeacoffee.com/mohitk30" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Pizza" width="120" /></a> |
+
+
 
 
 ![Profile View](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=mohitk30&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
