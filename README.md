@@ -16,7 +16,8 @@
 [![GitHub vermakhushboo](https://img.shields.io/github/followers/mohitk30?label=follow&style=social)](https://github.com/mohitk30)
  [![Twitter: Mohit kumar](https://img.shields.io/twitter/follow/MohitKu45127725?style=social)](https://twitter.com/MohitKu45127725)
 [![Linkedin: Khushboo Verma](https://img.shields.io/badge/-Mohit%20kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohit-kumar-605669202/)](https://www.linkedin.com/in/mohit-kumar-605669202/)
-![Profile View](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=mohitk30&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=mohitk30&left_color=gray&right_color=blue)
+<!-- ![Profile View](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=mohitk30&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A) -->
  
 <!-- <a href="https://www.linkedin.com/in/mohit-kumar-605669202/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2308090A.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
