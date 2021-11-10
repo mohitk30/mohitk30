@@ -15,10 +15,11 @@
 
 [![GitHub vermakhushboo](https://img.shields.io/github/followers/mohitk30?label=follow&style=social)](https://github.com/mohitk30)
  [![Twitter: Mohit kumar](https://img.shields.io/twitter/follow/MohitKu45127725?style=social)](https://twitter.com/MohitKu45127725)
+ [![Linkedin: Khushboo Verma](https://img.shields.io/badge/linkedin-%2308090A.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mohit-kumar-605669202/)](https://www.linkedin.com/in/mohit-kumar-605669202/)
  
-<a href="https://www.linkedin.com/in/mohit-kumar-605669202/" target="_blank">
+<!-- <a href="https://www.linkedin.com/in/mohit-kumar-605669202/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2308090A.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
+</a> -->
 <!-- <a href="https://mohitk30.github.io/" target="_blank">
 <img src=https://img.shields.io/badge/Portfolio-%2308090A.svg?&style=for-the-badge&logo=globe&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
 </a> -->
