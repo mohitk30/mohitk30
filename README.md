@@ -13,6 +13,10 @@
 - 💞️ I’m looking to collaborate on project.
 - 📫 Contact at +919829906261,  -->
 
+[![GitHub vermakhushboo](https://img.shields.io/github/followers/mohitk30?label=follow&style=social)](https://github.com/mohitk30)
+[![Linkedin: Khushboo Verma](https://img.shields.io/badge/-Khushboo%20Verma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/verma-khushboo/)](https://www.linkedin.com/in/verma-khushboo/)
+[![Twitter: Khushboo Verma](https://img.shields.io/twitter/follow/MohitKu45127725?style=social)](https://twitter.com/MohitKu45127725)
+
 ```js
 
     This describe me a programer
