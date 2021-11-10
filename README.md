@@ -14,8 +14,14 @@
 - 📫 Contact at +919829906261,  -->
 
 [![GitHub vermakhushboo](https://img.shields.io/github/followers/mohitk30?label=follow&style=social)](https://github.com/mohitk30)
-[![Linkedin: Khushboo Verma](https://img.shields.io/badge/-Khushboo%20Verma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/verma-khushboo/)](https://www.linkedin.com/in/verma-khushboo/)
-[![Twitter: Khushboo Verma](https://img.shields.io/twitter/follow/MohitKu45127725?style=social)](https://twitter.com/MohitKu45127725)
+ 
+<a href="https://www.linkedin.com/in/mohit-kumar-605669202/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%2308090A.svg?&style=for-the-badge&logo=linkedin&logoColor=blue alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://mohitk30.github.io/" target="_blank">
+<img src=https://img.shields.io/badge/Portfolio-%2308090A.svg?&style=for-the-badge&logo=globe&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
+</a>
+[![Twitter: Mohit kumar](https://img.shields.io/twitter/follow/MohitKu45127725?style=social)](https://twitter.com/MohitKu45127725)
 
 ```js
 
@@ -60,21 +66,17 @@ You can click the Preview link to take a look at your changes.
 
 ## Checkout My Portfolio
  
-<a href="https://mohitk30.github.io/" target="_blank">
-<img src=https://img.shields.io/badge/Portfolio-%2308090A.svg?&style=for-the-badge&logo=globe&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
-</a>
 
-## Feel free to reach me through
 
-<a href="https://www.linkedin.com/in/mohit-kumar-605669202/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%2308090A.svg?&style=for-the-badge&logo=linkedin&logoColor=blue alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="mailto:mohitkumar982990@gmail.com" target="_blank">
+<!-- ## Feel free to reach me through -->
+
+ 
+<!-- <a href="mailto:mohitkumar982990@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-%2308090A.svg?&style=for-the-badge&logo=Gmail&logoColor=red alt=Gmail style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/MohitKu45127725" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2308090A.svg?&style=for-the-badge&logo=twitter&logoColor=blue alt=twitter style="margin-bottom: 5px;" />
-</a>
+</a> -->
 
 ## ⚡ Technologies
 
