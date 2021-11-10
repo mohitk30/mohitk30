@@ -95,8 +95,8 @@ You can click the Preview link to take a look at your changes.
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=flat-square&logo=tailwind-css&logoColor=white)
 ![Material UI](https://img.shields.io/badge/material%20ui%20-%230081CB.svg?logo=material-ui&logoColor=white&style=flat-square)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Git](https://img.shields.io/badge/-Git-white?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-white?style=flat-square&logo=github)
 
 
 [![Mohit kumar's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mohitk30&bg_color=FFFFFF&color=000000&line=000000&point=00FF00)](https://github.com/mohitk30/github-readme-activity-graph)
