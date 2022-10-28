@@ -58,7 +58,7 @@ echo "Contact at: +91 98299 06261";
       <td><a href="https://github.com/mohitk30/Alumni-Cell-Web"><b> Alumni-Cell-Web</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/mohitk30/Alumni-Cell-Web?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/mohitk30/Alumni-Cell-Web?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/mohitk30/Alumni-Cell-Web?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="[https://img.shields.io/github/issues/mohitk30/Alumni-Cell-Web?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mohitk30/Alumni-Cell-Web?style=flat-square&labelColor=343b41"/></td>
     </tr>
    
