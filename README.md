@@ -40,7 +40,7 @@ echo "Contact at: +91 98299 06261";
 ```
  |      Project :Tnp-Cell-Website:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  |
 |-------------|-------------------|---|---|
-| [**TnpCell Website**](https://github.com/mohitk30/Tnp-Cell-Website) | [![GitHub issues](https://img.shields.io/github/issues/mohitk30/Tnp-Cell-Website?color=green&logo=github&style=flat)](https://github.com/mohitk30/Tnp-Cell-Website/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/mohitk30/Tnp-Cell-Website?style=flat&logo=github)](https://github.com/mohitk30/Tnp-Cell-Website/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/mohitk30/Tnp-Cell-Website?style=flat&color=critical&logo=github)](https://github.com/mohitk30/Tnp-Cell-Website/pulls?q=is%3Apr+is%3Aclosed)  |
+| [**TnpCell Website**](https://github.com/mohitk30/Alumni-Cell-Web) | [![GitHub issues](https://img.shields.io/github/issues/mohitk30/Alumni-Cell-Web?color=green&logo=github&style=flat)](https://github.com/mohitk30/Alumni-Cell-Web/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/mohitk30/Alumni-Cell-Web?style=flat&logo=github)](https://github.com/mohitk30/Alumni-Cell-Web/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/mohitk30/Alumni-Cell-Web?style=flat&color=critical&logo=github)](https://github.com/mohitk30/Alumni-Cell-Web/pulls?q=is%3Apr+is%3Aclosed)  |
 
 
 
