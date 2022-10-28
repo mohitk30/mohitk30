@@ -13,9 +13,9 @@
 - 💞️ I’m looking to collaborate on project.
 - 📫 Contact at +919829906261,  -->
 
-[![GitHub vermakhushboo](https://img.shields.io/github/followers/mohitk30?label=follow&style=social)](https://github.com/mohitk30)
+[![GitHub Mohit kumar](https://img.shields.io/github/followers/mohitk30?label=follow&style=social)](https://github.com/mohitk30)
  [![Twitter: Mohit kumar](https://img.shields.io/twitter/follow/MohitKu45127725?style=social)](https://twitter.com/MohitKu45127725)
-[![Linkedin: Khushboo Verma](https://img.shields.io/badge/-Mohit%20kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohit-kumar-605669202/)](https://www.linkedin.com/in/mohit-kumar-605669202/)
+[![Linkedin: Mohit kumar](https://img.shields.io/badge/-Mohit%20kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohit-kumar-605669202/)](https://www.linkedin.com/in/mohit-kumar-605669202/)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=mohitk30&left_color=gray&right_color=blue)
  [![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fmohitk30.github.io.)](https://mohitk30.github.io/)
 <!-- ![Profile View](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=mohitk30&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A) -->
