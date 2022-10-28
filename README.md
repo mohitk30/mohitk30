@@ -38,10 +38,10 @@ System.out.println("I am a sophomore");
 echo "Contact at: +91 98299 06261";
 
 ```
- |      Project :Tnp-Cell-Website:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  |
+<!--  |      Project :Tnp-Cell-Website:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  |
 |-------------|-------------------|---|---|
 | [**Alumni-Cell-Web**](https://github.com/mohitk30/Alumni-Cell-Web) | [![GitHub issues](https://img.shields.io/github/issues/mohitk30/Alumni-Cell-Web?color=green&logo=github&style=flat)](https://github.com/mohitk30/Alumni-Cell-Web/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/mohitk30/Alumni-Cell-Web?style=flat&logo=github)](https://github.com/mohitk30/Alumni-Cell-Web/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/mohitk30/Alumni-Cell-Web?style=flat&color=critical&logo=github)](https://github.com/mohitk30/Alumni-Cell-Web/pulls?q=is%3Apr+is%3Aclosed)  |
-
+ -->
 <table>
   <thead align="center">
     <tr border: none;>
