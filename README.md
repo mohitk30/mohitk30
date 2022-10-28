@@ -42,6 +42,28 @@ echo "Contact at: +91 98299 06261";
 |-------------|-------------------|---|---|
 | [**Alumni-Cell-Web**](https://github.com/mohitk30/Alumni-Cell-Web) | [![GitHub issues](https://img.shields.io/github/issues/mohitk30/Alumni-Cell-Web?color=green&logo=github&style=flat)](https://github.com/mohitk30/Alumni-Cell-Web/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/mohitk30/Alumni-Cell-Web?style=flat&logo=github)](https://github.com/mohitk30/Alumni-Cell-Web/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/mohitk30/Alumni-Cell-Web?style=flat&color=critical&logo=github)](https://github.com/mohitk30/Alumni-Cell-Web/pulls?q=is%3Apr+is%3Aclosed)  |
 
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+
+<tr>
+      <td><a href="https://github.com/mohitk30/Alumni-Cell-Web"><b> Alumni-Cell-Web</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/mohitk30/Alumni-Cell-Web?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/mohitk30/Alumni-Cell-Web?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/mohitk30/Alumni-Cell-Web?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mohitk30/Alumni-Cell-Web?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+   
+   </tbody>
+</table>
 
 
  
